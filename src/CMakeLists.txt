@@ -583,6 +583,7 @@ set(INCLUDE_FILES
         displayapp/DisplayApp.h
         displayapp/Messages.h
         displayapp/TouchEvents.h
+        displayapp/pinetime_colors.h
         displayapp/screens/Screen.h
         displayapp/screens/Clock.h
         displayapp/screens/Tile.h
